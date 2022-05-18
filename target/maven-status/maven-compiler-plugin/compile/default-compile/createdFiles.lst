@@ -1,0 +1,10 @@
+local\lmff\bookstoreweb\model\bean\User.class
+local\lmff\bookstoreweb\controller\UserLogoutServlet.class
+local\lmff\bookstoreweb\controller\UserLoginServlet.class
+local\lmff\bookstoreweb\model\bean\Book.class
+local\lmff\bookstoreweb\controller\AutorizaUserFilter.class
+local\lmff\bookstoreweb\controller\UserServlet.class
+connection\MySQLConnection.class
+local\lmff\bookstoreweb\model\dao\UserDAO.class
+local\lmff\bookstoreweb\controller\BookServlet.class
+local\lmff\bookstoreweb\model\dao\BookDAO.class
